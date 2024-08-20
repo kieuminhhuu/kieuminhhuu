@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+I'm Minh Hữu, an entry-level Data Analyst with a strong passion for finding the stories behind the numbers. I love working with data, finding key insights, and turning them into clear, actionable ideas that help guide important decisions and achieve succes
 ## Technical Skills 
 - SQL: Google BigQuery, MySQL
 - Python: Pandas, Numpy, MatPlotlib, Seaborn
