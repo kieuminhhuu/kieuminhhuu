@@ -10,7 +10,7 @@ I'm Minh Huu, an entry-level Data Analyst with a strong passion for finding the 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kieuminhhuu&repo=Superstore-Analysis&theme=radical" />
 </a>
-<a href="https://github.com/pth11/Python_RFM_Analysis">
+<a href="https://github.com/kieuminhhuu/Superstore-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kieuminhhuu&repo=Superstore-Analysis&theme=vue-dark" />
 </a> 
