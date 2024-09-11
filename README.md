@@ -10,11 +10,8 @@ I'm Minh Huu, an entry-level Data Analyst with a strong passion for finding the 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kieuminhhuu&repo=PowerBI-Superstore-Analysis&theme=radical" />
 </a>    
-<a href="https://github.com/kieuminhhuu/Explore_Ecommerce_Dataset/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kieuminhhuu&repo=Explore_Ecommerce_Dataset&theme=merko" />
-</a> 
 
+ 
 ## Education & Certificates
 - **Posts and Telecommunications Institute of Technology (PTIT)(2019-2024) - Information Technology**
 - **Data Analyst Coaching 1 on 1 Program - Unigap (2024)**
