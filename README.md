@@ -12,7 +12,7 @@ I'm Minh Huu, an entry-level Data Analyst with a strong passion for finding the 
 </a>    
 <a href="https://github.com/kieuminhhuu/Explore_Ecommerce_Dataset/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kieuminhhuu&repo=PowerBI-Superstore-Analysis&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kieuminhhuu&repo=Explore_Ecommerce_Dataset&theme=merko" />
 </a> 
  
 ## Education & Certificates
