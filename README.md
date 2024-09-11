@@ -10,9 +10,9 @@ I'm Minh Huu, an entry-level Data Analyst with a strong passion for finding the 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kieuminhhuu&repo=PowerBI-Superstore-Analysis&theme=radical" />
 </a>    
-<a href="https://github.com/kieuminhhuu/Explore_Ecommerce_Data_2set/">
+<a href="https://github.com/kieuminhhuu/Explore_Ecommerce_Data/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kieuminhhuu&repo=Explore_Ecommerce_Dataset_2&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kieuminhhuu&repo=Explore_Ecommerce_Data&theme=radical" />
 </a> 
  
 ## Education & Certificates
