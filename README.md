@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-I'm Minh Huu, an entry-level Data Analyst with a strong passion for finding the stories behind the numbers. I love working with data, finding key insights, and turning them into clear, actionable ideas that help guide important decisions and achieve succes
+I am Minh Huu, a new Data Analyst with a passion for finding stories behind the numbers. I want to apply my skills as a data analyst to explore numbers to find important insights and turn them into clear, actionable ideas that help guide important decisions and achieve business success.
 ## Technical Skills 
 - SQL: Google BigQuery, MySQL
 - Python: Pandas, Numpy, MatPlotlib, Seaborn
