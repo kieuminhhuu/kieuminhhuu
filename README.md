@@ -14,7 +14,15 @@ I'm Minh Huu, an entry-level Data Analyst with a strong passion for finding the 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kieuminhhuu&repo=Explore_Ecommerce_Data&theme=merko" />
 </a> 
- 
+<a href="https://github.com/kieuminhhuu/Python_RFM_Analysis/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kieuminhhuu&repo=Python_RFM_Analysis&theme=merko" />
+</a> 
+<a href="https://github.com/kieuminhhuu/Machine_Learning_Churn_User">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kieuminhhuu&repo=Machine_Learning_Churn_User&theme=merko" />
+</a> 
+
 ## Education & Certificates
 - **Posts and Telecommunications Institute of Technology (PTIT)(2019-2024) - Information Technology**
 - **Data Analyst Coaching 1 on 1 Program - Unigap (2024)**
